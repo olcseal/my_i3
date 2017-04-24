@@ -38,7 +38,7 @@ bindsym $mod+minus scratchpad show
 
 
 # Using feh for background wallpaper
-exec_always $psst feh --bg-scale /home/sseal/Pictures/botw.jpg
+exec_always $psst feh --bg-scale /home/sseal/Pictures/forest.jpg
 
 # lock screen using i3lock
 bindsym $mod+Shift+l exec $psst i3lock -t -i ~/Pictures/water.jpg
